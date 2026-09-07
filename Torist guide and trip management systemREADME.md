@@ -3,13 +3,13 @@ Tourist-Guide-and-Trip-Management-System
 VERSION 1.0
 
 Specification :
-User registration and login
-Search and browse tourist destinations
-View destination details,
-View photos,
-View location
-Search for hotels
-Search restaurants
-Search tourist spots
-View available tour guides
-Create and manage trips
+1.User registration and login
+2.Search and browse tourist destinations
+3.View destination details,
+4.View photos,
+5.View location
+6.Search for hotels
+7.Search restaurants
+8.Search tourist spots
+9.View available tour guides
+10.Create and manage trips
